@@ -12,10 +12,12 @@ The Anime Stream Page includes the following key pages:
 - **Anime Home Page**: Displays the main content and features related to anime streaming.
 
 ## Demo
+![Screenshot 2024-08-25 220034](https://github.com/user-attachments/assets/15ff449a-b338-41c6-91a6-3ce67c98f8a5)
+
 
 Watch the demo video on [here](https://github.com/karthi234231/Anime-Stream-App/blob/main/DEMO.mp4).
 
-(https://i.ibb.co/xYWgc06/Screenshot-2024-08-25-220034.png)
+
 ## Features
 
 - **Responsive Design**: The application is designed to be responsive and work across different devices and screen sizes.
