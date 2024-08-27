@@ -1,7 +1,7 @@
 # Anime Stream Page
 
 Welcome to the Anime Stream Page! This project is a React-based web application designed to provide users with a seamless anime streaming experience. It features various pages to enhance user interaction and accessibility.
-**Deployed Project : ** (https://aniwatchh.netlify.app/)
+- **Deployed Project**: (https://aniwatchh.netlify.app/)
 
 ## Project Overview
 
