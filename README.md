@@ -11,6 +11,11 @@ The Anime Stream Page includes the following key pages:
 - **Login Page**: Provides access for existing users to log in.
 - **Anime Home Page**: Displays the main content and features related to anime streaming.
 
+## Demo
+
+Watch the demo video on [here](https://github.com/karthi234231/Anime-Stream-App/blob/main/DEMO.mp4).
+
+
 ## Features
 
 - **Responsive Design**: The application is designed to be responsive and work across different devices and screen sizes.
