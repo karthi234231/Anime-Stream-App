@@ -15,7 +15,7 @@ The Anime Stream Page includes the following key pages:
 
 Watch the demo video on [here](https://github.com/karthi234231/Anime-Stream-App/blob/main/DEMO.mp4).
 
-
+(https://i.ibb.co/xYWgc06/Screenshot-2024-08-25-220034.png)
 ## Features
 
 - **Responsive Design**: The application is designed to be responsive and work across different devices and screen sizes.
